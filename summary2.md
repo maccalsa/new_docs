@@ -68,26 +68,14 @@ As I grow into the Lead Developer role, my aim is to help bridge the gap between
 
 > 📍 Real project example — used to reflect on perception vs timeline
 
-```mermaid
-gantt
-    title Case Study: Work Timeline
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b %d
-
-    section Discovery
-    Confluence Page Created        :done,    des1, 2024-02-26, 1d
-    Requirements Gathering         :done,    des2, 2024-02-26, 25d
-
-    section Design
-    Screen Flow Diagram Complete   :done,    des3, 2024-05-13, 1d
-    UX & Policy Finalisation       :done,    des4, 2024-07-02, 1d
-
-    section Communication
-    Slack Channel Created          :done,    comm1, 2024-06-06, 1d
-
-    section Delivery
-    User Stories Written           :done,    dev1, 2024-07-16, 1d
-````
+| Stage                        | Date            |
+| ---------------------------- | --------------- |
+| Confluence page created      | Feb 26          |
+| Requirements discussed       | Feb 26 – Mar 24 |
+| Screen flow diagram complete | May 13          |
+| Slack channel created        | June 6          |
+| Design/policy clarified      | \~July 2        |
+| User stories written         | July 16         |
 
 → **Does this reflect how others experienced the timeline?**
 → **Was development perceived to have started earlier or later than it really did?**
